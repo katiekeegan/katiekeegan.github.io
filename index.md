@@ -12,7 +12,7 @@ In summer 2024, I was in California at [Lawrence Berkeley National Lab](https://
 
 In summer 2023 and January 2024, I was in Tokyo at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/) working with [Mohamed Wahib.](https://scholar.google.com/citations?user=C3fmEegAAAAJ&hl=en)
 
-I'm interested in simulation-based inference, generative modeling, high dimensional data analysis, machine learning, and incorporating domain knowledge in machine learning for science and engineering.
+I'm interested in generative modeling, simulation-based inference, high dimensional data analysis, machine learning, and incorporating domain knowledge in machine learning for science and engineering.
 
 Thank you for visiting my website!
 
