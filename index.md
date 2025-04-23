@@ -18,11 +18,34 @@ Thank you for visiting my website!
 
 ## Upcoming Travel
 
+🛩️ **[17th JLESC Workshop](https://jlesc.github.io/events/17th-jlesc-workshop/)**
+Chicago, IL, May 2025
+
+🛩️ **[Mathematical Foundations of Data Science Summer School](https://jlesc.github.io/events/17th-jlesc-workshop/)**
+Montreal, Canada, May 2025
+
+🛩️ **[SPACERAISE AI for Aerospace Summer School](https://spaceraise.academy/#week3)**
+L'Aquila, Italy, May 2025
+
+🛩️ **[MOST Training Seminar at National Museum of Mathematics](https://momath.org/most/)**
+New York City, NY, July 2025
+
+🛩️ **[DOE CSGF Program Review](https://www.krellinst.org/csgf/conf)**
+Washington, DC, July 2025
+
+🛩️ **[Institute for Artificial Intelligence and Fundamental Interactions Summer School](https://iaifi.org/phd-summer-school.html)**
+Boston, MA, August 2025
+
+## Recent Travel
+
 🛩️ **[Supercomputing 2024](https://sc24.supercomputing.org/)** 
 Atlanta, GA, November 2024
 
 🛩️ **[SIAM Computational Science & Engineering 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/)**
 Fort Worth, TX, March 2025
+
+🛩️ **[Visit to RIKEN High-Performance Artificiial Intelligence Systems Research Team](https://www.siam.org/conferences-events/siam-conferences/cse25/)**
+Tokyo, Japan, March 2025
 
 ## Publications
 
