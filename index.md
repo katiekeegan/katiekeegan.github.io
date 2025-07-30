@@ -16,7 +16,7 @@ In summer 2023 and January 2024, I was in Tokyo at the [High Performance AI Syst
 
 I enjoy thinking about incorporating domain knowledge in AI/ML for science and engineering in a scalable, efficient, and mathematically sound way. Specifically, my research interests include constrained generative modeling, simulation-based inference, and high-dimensional data analysis.
 
-Thank you for visiting my website!
+Thank you for kindly taking the time to visit my website!
 
 ## Upcoming Travel
 
