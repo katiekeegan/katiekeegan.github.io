@@ -6,17 +6,36 @@ layout: homepage
 
 Hello!
 
-I'm a third-year PhD student in Computational Math at Emory University, where I'm supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.) I am fortunate to be advised by [Lars Ruthotto.](https://www.math.emory.edu/~lruthot/)
+I'm a rising fourth-year PhD student (wow, time flies!) in Computational Math at Emory University, where I'm supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.) I am fortunate to be advised by [Lars Ruthotto.](https://www.math.emory.edu/~lruthot/)
+
+This summer, I am very excited to be working with [NASA's Frontier Development Lab](https://fdl.ai/) on solar active region forecasting with uncertainty quantification. 
 
 In summer 2024, I was in California at [Lawrence Berkeley National Lab](https://www.lbl.gov/) working with [Aydın Buluç.](https://people.eecs.berkeley.edu/~aydin/)
 
 In summer 2023 and January 2024, I was in Tokyo at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/) working with [Mohamed Wahib.](https://scholar.google.com/citations?user=C3fmEegAAAAJ&hl=en)
 
-I'm interested in generative modeling, simulation-based inference, high dimensional data analysis, machine learning, and incorporating domain knowledge in machine learning for science and engineering.
+I enjoy thinking about incorporating domain knowledge in AI/ML for science and engineering in a scalable, efficient, and mathematically sound way. Specifically, my research interests include constrained generative modeling, simulation-based inference, and high-dimensional data analysis.
 
 Thank you for visiting my website!
 
 ## Upcoming Travel
+
+🛩️ **[Institute for Artificial Intelligence and Fundamental Interactions Summer School and Summer Workshop](https://iaifi.org/phd-summer-school.html)**
+Boston, MA, August 2025
+
+🛩️ **[Machine Learning for Heliophysics Workshop](https://ml-helio.github.io/)**
+Madrid, Spain, September 2025
+
+## Recent Travel
+
+🛩️ **[Supercomputing 2024](https://sc24.supercomputing.org/)** 
+Atlanta, GA, November 2024
+
+🛩️ **[SIAM Computational Science & Engineering 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/)**
+Fort Worth, TX, March 2025
+
+🛩️ **[Visit to RIKEN High-Performance Artificiial Intelligence Systems Research Team](https://www.siam.org/conferences-events/siam-conferences/cse25/)**
+Tokyo, Japan, March 2025
 
 🛩️ **[17th JLESC Workshop](https://jlesc.github.io/events/17th-jlesc-workshop/)**
 Chicago, IL, May 2025
@@ -32,20 +51,6 @@ New York City, NY, July 2025
 
 🛩️ **[DOE CSGF Program Review](https://www.krellinst.org/csgf/conf)**
 Washington, DC, July 2025
-
-🛩️ **[Institute for Artificial Intelligence and Fundamental Interactions Summer School](https://iaifi.org/phd-summer-school.html)**
-Boston, MA, August 2025
-
-## Recent Travel
-
-🛩️ **[Supercomputing 2024](https://sc24.supercomputing.org/)** 
-Atlanta, GA, November 2024
-
-🛩️ **[SIAM Computational Science & Engineering 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/)**
-Fort Worth, TX, March 2025
-
-🛩️ **[Visit to RIKEN High-Performance Artificiial Intelligence Systems Research Team](https://www.siam.org/conferences-events/siam-conferences/cse25/)**
-Tokyo, Japan, March 2025
 
 ## Publications
 
