@@ -68,7 +68,7 @@ Washington, DC, July 2025
   <br>
   SIAM Journal on Matrix Analysis and Applications, Volume 46, Issue 3, 2025, pp. 1764-1790.
   <br>
-  [[PDF](https://arxiv.org/pdf/2406.06942)]
+  [[arXiv](https://arxiv.org/pdf/2406.06942)] [[Publication](https://epubs.siam.org/doi/10.1137/24M1702635)]
   
 - **A Tensor SVD-based Classification Algorithm Applied to fMRI Data**
   <br>
