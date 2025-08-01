@@ -66,7 +66,7 @@ Washington, DC, July 2025
   <br>
   Elizabeth Newman, **Katherine Keegan**
   <br>
-  Submitted, 2024.
+  SIAM Journal on Matrix Analysis and Applications, Volume 46, Issue 3, 2025. pp. 1764-1790.
   <br>
   [[PDF](https://arxiv.org/pdf/2406.06942)]
   
