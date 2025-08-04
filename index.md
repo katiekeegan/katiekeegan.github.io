@@ -20,9 +20,6 @@ Thank you for kindly taking the time to visit my website!
 
 ## Upcoming Travel
 
-🛩️ **[Institute for Artificial Intelligence and Fundamental Interactions Summer School and Summer Workshop](https://iaifi.org/phd-summer-school.html)**
-Boston, MA, August 2025
-
 🛩️ **[Machine Learning for Heliophysics Conference](https://ml-helio.github.io/)**
 Madrid, Spain, September 2025
 
