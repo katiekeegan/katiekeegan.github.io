@@ -5,10 +5,10 @@ email: kkeega3 [at] emory [dot] edu
 keywords: minimal academic
 google_scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=Unt8icQAAAAJ&gmla=AJsN-F6-N_0AUGZRnUUnfHb_nw5xJxWL9XhzIX1SmkEGzaccIQroXiHGRh1NkrRIsmmXVwLi8AjGD3VUc5Xqz1O91JiNoTOYjIsgw7bSrzKy_cFIvly9d7tmD2cE6_v2hnovAsDJU6w9#
 linkedin: https://www.linkedin.com/in/katherine-keegan-6a845817a/
-avatar: ./assets/img/katie.png
+avatar: /assets/img/katie.png
 google_analytics: UA-111540567-4
-favicon: ./assets/img/katie.png
-favicon_dark: ./assets/img/katie.png
+favicon: /assets/img/katie.png
+favicon_dark: /assets/img/katie.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
