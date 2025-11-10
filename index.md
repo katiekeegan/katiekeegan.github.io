@@ -14,14 +14,17 @@ In summer 2024, I was in California at [Lawrence Berkeley National Lab](https://
 
 In summer 2023, January 2024, and March 2025, I was in Tokyo at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/) working with [Mohamed Wahib.](https://scholar.google.com/citations?user=C3fmEegAAAAJ&hl=en)
 
-I enjoy thinking about incorporating domain knowledge in AI/ML for science and engineering in a scalable, efficient, and mathematically sound way. Specifically, my research interests include constrained generative modeling, simulation-based inference, and high-dimensional data analysis.
+I enjoy thinking about incorporating domain knowledge in AI/ML for science and engineering in a scalable, efficient, and mathematically sound way. Specifically, my research interests include constrained generative modeling, simulation-based inference, and high-dimensional data analysis. I'm especially interested in applications in particle physics, engineering design, and space.
 
 Thank you for kindly taking the time to visit my website!
 
 ## Upcoming Travel
 
-🛩️ **[Machine Learning for Heliophysics Conference](https://ml-helio.github.io/)**
-Madrid, Spain, September 2025
+🛩️ **[Supercomputing 2025](https://sc25.supercomputing.org/)**
+St. Louis, MO, November 2025
+
+🛩️ **[NeurIPS 2025](https://neurips.cc/)**
+San Diego, CA, December 2025
 
 ## Recent Travel
 
@@ -48,6 +51,12 @@ New York City, NY, July 2025
 
 🛩️ **[DOE CSGF Program Review](https://www.krellinst.org/csgf/conf)**
 Washington, DC, July 2025
+
+🛩️ **[Machine Learning for Heliophysics Conference](https://ml-helio.github.io/)**
+Madrid, Spain, September 2025
+
+🛩️ **[IAIFI Summer School and Workshop](https://iaifi.org/phd-summer-school.html)**
+Boston, MA, August 2025
 
 ## Publications
 
