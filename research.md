@@ -66,7 +66,7 @@ As a computational math PhD student, I think it is important to understand (a) r
 
 ### Projects:
 
--Simulation-Based Inference for Extraction of Quantum Correlation Functions (w. [RIKEN HPAIS team](https://www.riken.jp/en/research/labs/r-ccs/high_perf_ai_sys/index.html) and the [QuantOm collaboration](https://www.anl.gov/phy/quantom))
--Generative Modeling for 3-D Structural Engineering (w. [RIKEN HPAIS team](https://www.riken.jp/en/research/labs/r-ccs/high_perf_ai_sys/index.html) and [Koji Nishiguchi](https://scholar.google.com/citations?user=2eU24fEAAAAJ&hl=ja))
--Parallelized Subgraph GNN Training (w. [Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/)
--Data-Driven Surface Flux Transport Modeling with Uncertainty Quantification for Forecasting Solar Active Regions on Short Time Horizons (w. [Frontier Development Lab](https://fdl.ai/) summer research incubator)
+- Simulation-Based Inference for Extraction of Quantum Correlation Functions (w. [RIKEN HPAIS team](https://www.riken.jp/en/research/labs/r-ccs/high_perf_ai_sys/index.html) and the [QuantOm collaboration](https://www.anl.gov/phy/quantom))
+- Generative Modeling for 3-D Structural Engineering (w. [RIKEN HPAIS team](https://www.riken.jp/en/research/labs/r-ccs/high_perf_ai_sys/index.html) and [Koji Nishiguchi](https://scholar.google.com/citations?user=2eU24fEAAAAJ&hl=ja))
+- Parallelized Subgraph GNN Training (w. [Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/)
+- Data-Driven Surface Flux Transport Modeling with Uncertainty Quantification for Forecasting Solar Active Regions on Short Time Horizons (w. [Frontier Development Lab](https://fdl.ai/) summer research incubator)
