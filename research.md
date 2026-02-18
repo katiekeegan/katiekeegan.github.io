@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 If we had to apply k-means clustering to my previous/ongoing research with k=3, we’d get something like this:
 
 **Mathematics of Generative Modeling**
