@@ -20,21 +20,21 @@ Thank you for kindly taking the time to visit my website!
 
 ## Upcoming Travel
 
-🛩️ **[Supercomputing 2025](https://sc25.supercomputing.org/)**
-St. Louis, MO, November 2025
+🛩️ **[Visit to RIKEN High-Performance Artificial Intelligence Systems Research Team](https://www.riken.jp/en/research/labs/r-ccs/high_perf_ai_sys/index.html)**
+Tokyo, Japan, March 2026
 
-🛩️ **[NeurIPS 2025](https://neurips.cc/)**
-San Diego, CA, December 2025
+🛩️ **[Research Practicum with Michael Mahoney's Group at LBNL](https://www.stat.berkeley.edu/~mmahoney/)**
+Berkeley, CA, May-August 2026
+
+🛩️ **[DOE CSGF Program Review](https://www.krellinst.org/csgf/conf)**
+Washington, DC, July 2026
 
 ## Recent Travel
-
-🛩️ **[Supercomputing 2024](https://sc24.supercomputing.org/)** 
-Atlanta, GA, November 2024
 
 🛩️ **[SIAM Computational Science & Engineering 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/)**
 Fort Worth, TX, March 2025
 
-🛩️ **[Visit to RIKEN High-Performance Artificiial Intelligence Systems Research Team](https://www.siam.org/conferences-events/siam-conferences/cse25/)**
+🛩️ **[Visit to RIKEN High-Performance Artificial Intelligence Systems Research Team](https://www.riken.jp/en/research/labs/r-ccs/high_perf_ai_sys/index.html)**
 Tokyo, Japan, March 2025
 
 🛩️ **[17th JLESC Workshop](https://jlesc.github.io/events/17th-jlesc-workshop/)**
@@ -58,15 +58,18 @@ Madrid, Spain, September 2025
 🛩️ **[IAIFI Summer School and Workshop](https://iaifi.org/phd-summer-school.html)**
 Boston, MA, August 2025
 
+🛩️ **[Supercomputing 2025](https://sc25.supercomputing.org/)**
+St. Louis, MO, November 2025
+
 ## Publications
 
 - **Projected Tensor-Tensor Products for Efficient Computation of Optimal Multiway Data Representations**
   <br>
   **Katherine Keegan**, Elizabeth Newman
   <br>
-  Submitted, 2024.
+  Linear Algebra and its Applications, Volume 729, 2026, pp. 100-147.
   <br>
-  [[PDF](https://arxiv.org/pdf/2409.19402)]
+  [[arXiv](https://arxiv.org/pdf/2409.19402)] [[Publication](https://www.sciencedirect.com/science/article/abs/pii/S002437952500391X)]
   
 - **Optimal Matrix-Mimetic Tensor Algebras via Variable Projection**
   <br>
