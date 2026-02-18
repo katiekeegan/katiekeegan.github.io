@@ -63,6 +63,14 @@ St. Louis, MO, November 2025
 
 ## Publications
 
+- **Manifold-Aware Perturbations for Constrained Generative Modeling**
+  <br>
+  **Katherine Keegan**, Lars Ruthotto
+  <br>
+  Submitted, 2026.
+  <br>
+  [[arXiv](https://arxiv.org/pdf/2601.23151)]
+
 - **Projected Tensor-Tensor Products for Efficient Computation of Optimal Multiway Data Representations**
   <br>
   **Katherine Keegan**, Elizabeth Newman
