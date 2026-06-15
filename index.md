@@ -24,7 +24,7 @@ Thank you for kindly taking the time to visit my website!
 
 🎉 **May 2026:** Grateful to be featured in [this profile in DOE CSGF's magazine, DEIXIS](https://deixismagazine.org/2026/05/keeping-ai-honest/), and especially thankful to [Jacob Berkowitz](https://jacobberkowitz.com/) for his time writing the article!
 
-🎉 **April 2026:** Happy to share that my paper "Manifold-Aware Perturbations for Constrained Generative Modeling" with Lars Ruthotto was selected as a spotlight paper (top 2.2%) at ICML 2026! Also grateful to be selected as a Gold Star Reviewer (top 25% of conference reviewers) and to receive an ICML Student Travel Grant.
+🎉 **April 2026:** Happy to share that my paper "Manifold-Aware Perturbations for Constrained Generative Modeling" with Lars Ruthotto was selected as a spotlight paper (top 2.2%) at ICML 2026! Also grateful to be selected as a Gold Reviewer (top 25% of conference reviewers) and to receive an ICML Student Travel Grant.
 
 ## Upcoming Travel
 
