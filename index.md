@@ -6,7 +6,9 @@ layout: homepage
 
 Hello!
 
-I'm a fourth-year PhD student (wow, time flies!) in Computational Math at Emory University, where I'm supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.) I am fortunate to be advised by [Lars Ruthotto.](https://www.math.emory.edu/~lruthot/)
+I'm a fifth-year PhD student (wow, time flies!) in Computational Math at Emory University, where I'm supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.) I am fortunate to be advised by [Lars Ruthotto.](https://www.math.emory.edu/~lruthot/)
+
+In summer 2026, I am working with [Michael Mahoney's group at LBNL](https://www.stat.berkeley.edu/~mmahoney/) on generative modeling, uncertainty quantification, and manifold learning.
 
 In summer 2025, I worked with [NASA's Frontier Development Lab](https://fdl.ai/) on solar active region forecasting with uncertainty quantification. 
 
@@ -14,43 +16,40 @@ In summer 2024, I was in California at [Lawrence Berkeley National Lab](https://
 
 In summer 2023, January 2024, and March 2025, I was in Tokyo at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/) working with [Mohamed Wahib.](https://scholar.google.com/citations?user=C3fmEegAAAAJ&hl=en)
 
-I enjoy thinking about incorporating domain knowledge in AI/ML for science and engineering in a scalable, efficient, and mathematically sound way. Specifically, my research interests include constrained generative modeling, simulation-based inference, and high-dimensional data analysis. I'm especially interested in applications in particle physics, engineering design, and space.
+I enjoy thinking about incorporating domain knowledge in AI/ML for science and engineering in a scalable, efficient, and mathematically sound way. Specifically, my research interests include constrained generative modeling, simulation-based inference, and high-dimensional data analysis.
 
 Thank you for kindly taking the time to visit my website!
 
+## News
+
+🎉 **May 2026:** Grateful to be featured in [this profile in DOE CSGF's magazine, DEIXIS](https://deixismagazine.org/2026/05/keeping-ai-honest/), and especially thankful to [Jacob Berkowitz](https://jacobberkowitz.com/) for his time writing the article!
+
+🎉 **April 2026:** Happy to share that my paper "Manifold-Aware Perturbations for Constrained Generative Modeling" with Lars Ruthotto was selected as a spotlight paper (top 2.2%) at ICML 2026! Also grateful to be selected as a Gold Star Reviewer (top 25% of conference reviewers) and to receive an ICML Student Travel Grant.
+
 ## Upcoming Travel
 
-🛩️ **[Visit to RIKEN High-Performance Artificial Intelligence Systems Research Team](https://www.riken.jp/en/research/labs/r-ccs/high_perf_ai_sys/index.html)**
-Tokyo, Japan, March 2026
-
-🛩️ **[Research Practicum with Michael Mahoney's Group at LBNL](https://www.stat.berkeley.edu/~mmahoney/)**
-Berkeley, CA, May-August 2026
+🛩️ **[ICML 2026](https://icml.cc/)**
+Seoul, South Korea, July 2026
 
 🛩️ **[DOE CSGF Program Review](https://www.krellinst.org/csgf/conf)**
 Washington, DC, July 2026
 
+🛩️ **[SIAM Mathematics of Data Science 2026 Conference](https://www.siam.org/conferences-events/siam-conferences/mds26/)**
+Salt Lake City, Utah, November 2026
+
 ## Recent Travel
 
-🛩️ **[SIAM Computational Science & Engineering 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/)**
-Fort Worth, TX, March 2025
+🛩️ **["Computational methods for probability distributions on manifolds" workshop](https://cermics-lab.enpc.fr/workshop-computational-methods-for-probability-distributions-on-manifolds-paris-2026/)**
+Paris, France, May 2026
+
+🛩️ **[SPACERAISE Summer School](https://spaceraise.academy/)**
+L'Aquila, Italy, May 2026
 
 🛩️ **[Visit to RIKEN High-Performance Artificial Intelligence Systems Research Team](https://www.riken.jp/en/research/labs/r-ccs/high_perf_ai_sys/index.html)**
-Tokyo, Japan, March 2025
+Tokyo, Japan, March 2026
 
-🛩️ **[17th JLESC Workshop](https://jlesc.github.io/events/17th-jlesc-workshop/)**
-Chicago, IL, May 2025
-
-🛩️ **[Mathematical Foundations of Data Science Summer School](https://jlesc.github.io/events/17th-jlesc-workshop/)**
-Montreal, Canada, May 2025
-
-🛩️ **[SPACERAISE AI for Aerospace Summer School](https://spaceraise.academy/#week3)**
-L'Aquila, Italy, May 2025
-
-🛩️ **[MOST Training Seminar at National Museum of Mathematics](https://momath.org/most/)**
-New York City, NY, July 2025
-
-🛩️ **[DOE CSGF Program Review](https://www.krellinst.org/csgf/conf)**
-Washington, DC, July 2025
+🛩️ **[Supercomputing 2025](https://sc25.supercomputing.org/)**
+St. Louis, MO, November 2025
 
 🛩️ **[Machine Learning for Heliophysics Conference](https://ml-helio.github.io/)**
 Madrid, Spain, September 2025
@@ -58,16 +57,13 @@ Madrid, Spain, September 2025
 🛩️ **[IAIFI Summer School and Workshop](https://iaifi.org/phd-summer-school.html)**
 Boston, MA, August 2025
 
-🛩️ **[Supercomputing 2025](https://sc25.supercomputing.org/)**
-St. Louis, MO, November 2025
-
 ## Publications
 
 - **Manifold-Aware Perturbations for Constrained Generative Modeling**
   <br>
   **Katherine Keegan**, Lars Ruthotto
   <br>
-  Submitted, 2026.
+  ICML 2026 (Spotlight),
   <br>
   [[arXiv](https://arxiv.org/pdf/2601.23151)]
 
