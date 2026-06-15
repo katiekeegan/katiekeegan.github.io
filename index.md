@@ -101,6 +101,7 @@ Boston, MA, August 2025
   
 ## Other
 
+- Profile in DOE CSGF's DEIXIS Magazine: [here](https://deixismagazine.org/2026/05/keeping-ai-honest/)
 - Invited article at SIAM News: [here](https://sinews.siam.org/Details-Page/a-modified-watermarking-scheme-based-on-the-singular-value-decomposition)
-- I am a licensed private pilot as of December 2021! [Here](https://youtu.be/YhEA6PkSirU) is a cool video of the MBU campus from the sky during a night flight lesson. 
+- I am an FAA-certified private pilot as of December 2021! [Here](https://youtu.be/YhEA6PkSirU) is a cool video of the MBU campus from the sky during a night flight lesson. I have over 150 hours of flight time in four kinds of single-engine land aircraft and recently have been flying mostly light-sport airplanes.
 - When I'm not in the air or at a desk, I enjoy running, weightlifting, reading, and playing piano.
