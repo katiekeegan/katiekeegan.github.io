@@ -16,6 +16,8 @@ In summer 2024, I was in California at [Lawrence Berkeley National Lab](https://
 
 In summer 2023, January 2024, and March 2025, I was in Tokyo at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/) working with [Mohamed Wahib.](https://scholar.google.com/citations?user=C3fmEegAAAAJ&hl=en)
 
+**I am on the postdoctoral job market and am actively seeking opportinities beginning in Fall 2027. I would love to chat with any folks also working on geometric or constrained generative modeling!**
+
 I enjoy thinking about incorporating domain knowledge in AI/ML for science and engineering in a scalable, efficient, and mathematically sound way. Specifically, my research interests include constrained generative modeling, simulation-based inference, and high-dimensional data analysis.
 
 Thank you for kindly taking the time to visit my website!
