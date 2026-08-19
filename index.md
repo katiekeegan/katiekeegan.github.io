@@ -8,7 +8,11 @@ Hello!
 
 I'm a fifth-year PhD student (wow, time flies!) in Computational Math at Emory University, where I'm supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.) I am fortunate to be advised by [Lars Ruthotto.](https://www.math.emory.edu/~lruthot/)
 
-In summer 2026, I am working with [Michael Mahoney's group at LBNL](https://www.stat.berkeley.edu/~mmahoney/) on generative modeling, uncertainty quantification, and manifold learning.
+**I am on the postdoctoral job market and am actively seeking opportunities beginning in Fall 2027. I would love to chat with any folks also working on geometric or constrained generative modeling!**
+
+In fall 2026, I am visiting [Ben Erichson's group at LBNL/ICSI](https://www.benerichson.com/).
+
+In summer 2026, I worked with [Michael Mahoney's group at LBNL](https://www.stat.berkeley.edu/~mmahoney/) on generative modeling, uncertainty quantification, and manifold learning.
 
 In summer 2025, I worked with [NASA's Frontier Development Lab](https://fdl.ai/) on solar active region forecasting with uncertainty quantification. 
 
@@ -16,13 +20,15 @@ In summer 2024, I was in California at [Lawrence Berkeley National Lab](https://
 
 In summer 2023, January 2024, and March 2025, I was in Tokyo at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/) working with [Mohamed Wahib.](https://scholar.google.com/citations?user=C3fmEegAAAAJ&hl=en)
 
-**I am on the postdoctoral job market and am actively seeking opportinities beginning in Fall 2027. I would love to chat with any folks also working on geometric or constrained generative modeling!**
-
 I enjoy thinking about incorporating domain knowledge in AI/ML for science and engineering in a scalable, efficient, and mathematically sound way. Specifically, my research interests include constrained generative modeling, simulation-based inference, and high-dimensional data analysis.
 
 Thank you for kindly taking the time to visit my website!
 
 ## News
+
+🎉 **July 2026:** Delivered my [outgoing fellow talk](https://www.youtube.com/watch?v=QrB4UouFHLM) at my final [DOE CSGF Program Review](https://www.krellinst.org/csgf/conf). Incredibly grateful for the program staff for such an amazing fellowship experience. 
+
+🎉 **June 2026:** Grateful to receive a grant for supercomputing time at [NERSC](https://www.nersc.gov/) for ongoing research in constrained generative modeling.
 
 🎉 **May 2026:** Grateful to be featured in [this profile in DOE CSGF's magazine, DEIXIS](https://deixismagazine.org/2026/05/keeping-ai-honest/), and especially thankful to [Jacob Berkowitz](https://jacobberkowitz.com/) for his time writing the article!
 
