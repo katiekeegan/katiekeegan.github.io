@@ -12,7 +12,9 @@ I'm a fifth-year PhD student (wow, time flies!) in Computational Math at Emory U
 
 In fall 2026, I am visiting [Ben Erichson's group at LBNL/ICSI](https://www.benerichson.com/) and working on scalable scientific diffusion models.
 
-I enjoy thinking about incorporating domain knowledge in AI/ML for science and engineering in a scalable, efficient, and mathematically sound way. Specifically, my research interests include constrained generative modeling, computational techniques for sampling relying on geometric measure theory and PDEs, and high-dimensional data analysis by way of tensor/multilinear algebra.
+I enjoy thinking about incorporating domain knowledge in AI/ML for science and engineering in a scalable, efficient, and mathematically sound way. Specifically, my research interests include constrained generative modeling, computational techniques for sampling relying on geometric measure theory and PDEs, and high-dimensional data analysis by way of tensor/multilinear algebra. 
+
+Some brief summaries of my work are available in [this profile article](https://deixismagazine.org/2026/05/keeping-ai-honest/) and [this talk at the DOE CSGF 2026 Annual Program Review](https://www.youtube.com/watch?v=QrB4UouFHLM).
 
 I have been fortunate to enjoy many collaborations at various institutions, including [Michael Mahoney's group at LBNL](https://www.stat.berkeley.edu/~mmahoney/) in summer 2026, [NASA's Frontier Development Lab](https://fdl.ai/) for solar active region forecasting with uncertainty quantification in summer 2025, and [Aydın Buluç's group at LBNL](https://people.eecs.berkeley.edu/~aydin/) in summer 2024.
 
