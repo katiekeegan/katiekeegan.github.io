@@ -32,6 +32,8 @@ Thank you for kindly taking the time to visit my website!
 
 ## Upcoming Travel
 
+🛩️ **[IMSI Workshop on Statistical Foundations of Generative Modeling](https://www.imsi.institute/activities/statistical-foundations-of-generative-modeling/)**
+Chicago, IL, October 2026
 
 🛩️ **[SIAM Mathematics of Data Science 2026 Conference](https://www.siam.org/conferences-events/siam-conferences/mds26/)**
 Salt Lake City, Utah, November 2026
