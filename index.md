@@ -6,7 +6,7 @@ layout: homepage
 
 Hello!
 
-I'm a fifth-year PhD student (wow, time flies!) in Computational Math at Emory University, where I'm supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.) I am fortunate to be advised by [Lars Ruthotto.](https://www.math.emory.edu/~lruthot/)
+I'm a fifth-year PhD student (wow, time flies!) in Computational Math at Emory University, where I'm supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.) I am fortunate to be advised by [Lars Ruthotto.](https://www.math.emory.edu/~lruthot/) I am also grateful to be recognized as a [Rising Star in Data Science.](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/#description)
 
 🌱 **I am on the postdoctoral job market and am actively seeking opportunities beginning in Fall 2027. I would love to chat with any folks also working on geometric or constrained generative modeling!**
 
@@ -24,6 +24,8 @@ Thank you for kindly taking the time to visit my website!
 
 ## News
 
+🎉 **October 2026:** Incredibly grateful to be selected as a [Rising Star in Data Science!](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/#description)
+
 🎉 **July 2026:** Delivered my [outgoing fellow talk](https://www.youtube.com/watch?v=QrB4UouFHLM) at my final [DOE CSGF Program Review](https://www.krellinst.org/csgf/conf). Incredibly grateful for the program staff for such an amazing fellowship experience.
 
 🎉 **June 2026:** Grateful to receive a grant for supercomputing time at [NERSC](https://www.nersc.gov/) for ongoing research in constrained generative modeling.
@@ -36,6 +38,9 @@ Thank you for kindly taking the time to visit my website!
 
 🛩️ **[IMSI Workshop on Statistical Foundations of Generative Modeling](https://www.imsi.institute/activities/statistical-foundations-of-generative-modeling/)**
 Chicago, IL, October 2026
+
+🛩️ **[Rising Stars in Data Science 2026 Workshop]([https://www.siam.org/conferences-events/siam-conferences/mds26/](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/#description))**
+Chicago, IL, November 2026
 
 🛩️ **[SIAM Mathematics of Data Science 2026 Conference](https://www.siam.org/conferences-events/siam-conferences/mds26/)**
 Salt Lake City, Utah, November 2026
